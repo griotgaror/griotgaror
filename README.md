@@ -15,4 +15,4 @@
 
 #### Semi-knowledge Tools
 
-[![Frontend](https://skillicons.dev/icons?i=remix,cypress,electron,emotion,python,flask,lua,raspberrypi,tailwind,godot)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=redux,nextjs,remix,cypress,electron,emotion,python,flask,lua,raspberrypi,tailwind,godot)](https://skillicons.dev)
