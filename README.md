@@ -1,16 +1,18 @@
-## Hi there 👋
+## My skills
 
-<!--
-**griotgaror/griotgaror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Programming Languages
 
-Here are some ideas to get you started:
+[![Programming-Languages](https://skillicons.dev/icons?i=js,ts,)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Technologien
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,styledcomponents,express,jest,vitest,vite,webpack,rollup,babel,bun,npm)](https://skillicons.dev)
+
+
+#### Other Tools
+
+[![Frontend](https://skillicons.dev/icons?i=linux,vscode,git,github,figma,md,json)](https://skillicons.dev)
+
+#### Semi-knowledge Tools
+
+[![Frontend](https://skillicons.dev/icons?i=remix,cypress,electron,emotion,python,flask,lua,raspberrypi,tailwind,godot)](https://skillicons.dev)
