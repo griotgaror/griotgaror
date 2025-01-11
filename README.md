@@ -4,7 +4,7 @@
 
 [![Programming-Languages](https://skillicons.dev/icons?i=js,ts,)](https://skillicons.dev)
 
-#### Technologien
+#### Main Techstack
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,styledcomponents,express,jest,vitest,vite,webpack,rollup,babel,bun,npm)](https://skillicons.dev)
 
